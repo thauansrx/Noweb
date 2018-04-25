@@ -1,2 +1,2 @@
-﻿Usuário: admin
+Usuário: admin
 Senha: admin

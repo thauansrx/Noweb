@@ -1,6 +1,6 @@
 # Teste de Desenvolvimento - Noweb
 
-magine o seguinte cenário:
+Imagine o seguinte cenário:
 Temos uma site de eventos onde o dono(que chamarei de cliente), através do painel de controle protegido por senha, poderá inserir, editar, visualizar e excluir os eventos. O visitante por sua vez visualizará os eventos que estão ativos e que ainda não ocorreram.
 
 - O cliente deverá ter um painel simples, mas protegido por usuário e senha;
